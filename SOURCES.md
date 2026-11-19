@@ -36,6 +36,7 @@
 - Source: https://huggingface.co/datasets/eatpizzanot/soccer-dataset
 - Licence: CC BY 4.0
 - Credit: eatpizzanot
+- Upstream source: API-Football (https://www.api-football.com), credited at eatpizzanot's request
 
 The `canonical__*` match tables combine football-data.co.uk, schochastics/football-data, eatpizzanot, OpenPlay and BeyondELO. All five are listed in `metadata__source.csv.gz`, and the order used when result sources disagree is in `metadata__precedence_rank.csv.gz`.
 

@@ -109,7 +109,7 @@ This dataset builds on other people's generous work. If you use it, please credi
 - **OpenPlay** event data, data-v0.1.0. Licence: CC BY 4.0. Credit: "openplay (Noah Bair)".
 - **football-data.co.uk** results, https://www.football-data.co.uk/. Please credit football-data.co.uk.
 - **schochastics/football-data** match results, https://github.com/schochastics/football-data. Licence: Open Data Commons Attribution License (ODC-By 1.0). Credit: "schochastics/football-data".
-- **eatpizzanot/soccer-dataset** fixtures and results, https://huggingface.co/datasets/eatpizzanot/soccer-dataset. Licence: CC BY 4.0. Credit: "eatpizzanot".
+- **eatpizzanot/soccer-dataset** fixtures and results, https://huggingface.co/datasets/eatpizzanot/soccer-dataset. Licence: CC BY 4.0. Credit: "eatpizzanot". Its upstream source is API-Football (https://www.api-football.com), which eatpizzanot asks users to credit as well.
 - **Wikimedia Commons** images. Each image keeps its own licence (CC BY, CC BY-SA, CC0 or public domain). The author, licence and source link for every file are in [`images/ATTRIBUTION.csv`](images/ATTRIBUTION.csv). If you reuse an image, use its credit line, and keep CC BY-SA images under CC BY-SA.
 
 More detail is in [SOURCES.md](SOURCES.md). Club and competition names and badges belong to their owners, and no trademark rights are given.
